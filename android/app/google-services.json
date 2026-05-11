@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959158084664",
+    "project_id": "holsera-31ffd",
+    "storage_bucket": "holsera-31ffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959158084664:android:11f48729e43b34eb1df2cd",
+        "android_client_info": {
+          "package_name": "com.holsera.flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959158084664-9c8ef2umqh6hk4v752k1l344f4ca5b2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.holsera.flutter",
+            "certificate_hash": "fec48c1bd64209de2419da3481285a8246ee43ba"
+          }
+        },
+        {
+          "client_id": "959158084664-h7rnisf142nie4su7f4idapl34ta7ffr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjY3PCzZfD-p9joC22BjkX2zMXmW8rIYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959158084664-h7rnisf142nie4su7f4idapl34ta7ffr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
