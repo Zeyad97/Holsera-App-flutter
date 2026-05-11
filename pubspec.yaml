@@ -1,0 +1,29 @@
+name: holsera
+description: "Holsera - Enterprise Escrow & Payment Platform"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.0
+  http: ^1.1.0
+  intl: ^0.19.0
+  firebase_core: ^2.24.0
+  firebase_auth: ^4.20.0
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  # assets:
+  #   - assets/
